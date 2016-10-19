@@ -32,6 +32,7 @@ retrieve the book title, the borrower's name, and the borrower's address.
 
   #5 For each library branch, retrieve the branch name and the total number of books loaned out from
 that branch.
+
   #6 Retrieve the names, addresses, and number of books checked out for all borrowers who have more
 than five books checked out.
 
