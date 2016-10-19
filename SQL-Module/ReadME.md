@@ -3,22 +3,37 @@ Read ME FILE for SQL-Module Folder:
 
 1)First Run "Item Number 30-Table Create.sql"
   A) CREATES TABLES
+  
     -BOOK
+    
     -BOOK_AUTHORS
+    
     -PUBLISHER
+    
     -BOOK_COPIES
+    
+    
     -BOOK_LOANS
+    
     -BORROWER
+    
     -LIBRARY_BRANCH
     
 2)Files with 'UPDATE' will populate the table
    A) UPDATES TABLES
+   
      -BOOK Table UPDATE.sql
+     
      -BOOK_AUTHORS UPDATE.sql
+     
      -PUBLISHER UPDATE.sql
+     
      -BOOK_COPIES UPDATE.sql
+     
      -BOOK_LOANS UPDATE.sql
+     
      -BORROWER UPDATE.sql
+     
      -LIBRARY_BRANCH UPDATE.sql
 
 3)Files with 'DRILL' refers to the Tech Acadmey assigned to complete the following:
@@ -27,6 +42,7 @@ is"Sharpstown"?
   #2 How many copies of the book titled The Lost Tribe are owned by each library branch?
 
   #3 Retrieve the names of all borrowers who do not have any books checked out.
+  
   #4  For each book that is loaned out from the "Sharpstown" branch and whose DueDate is today,
 retrieve the book title, the borrower's name, and the borrower's address.
 
