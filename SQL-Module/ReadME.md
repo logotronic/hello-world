@@ -12,7 +12,6 @@ Read ME FILE for SQL-Module Folder:
     
     -BOOK_COPIES
     
-    
     -BOOK_LOANS
     
     -BORROWER
@@ -37,8 +36,10 @@ Read ME FILE for SQL-Module Folder:
      -LIBRARY_BRANCH UPDATE.sql
 
 3)Files with 'DRILL' refers to the Tech Acadmey assigned to complete the following:
+
   #1 How many copies of the book titled The Lost Tribe are owned by the library branch whose name
 is"Sharpstown"?
+
   #2 How many copies of the book titled The Lost Tribe are owned by each library branch?
 
   #3 Retrieve the names of all borrowers who do not have any books checked out.
