@@ -2,6 +2,7 @@ Notes by Logan Boespflug
 Read ME FILE for SQL-Module Folder:
 
 1)First Run "Item Number 30-Table Create.sql"
+
   A) CREATES TABLES
   
     -BOOK
