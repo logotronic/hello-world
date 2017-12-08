@@ -1,3 +1,3 @@
-Is this folder are two popular JavaScript Libraries:
+In this folder are two popular JavaScript Libraries:
 Bootstrap
 JQuery
